@@ -9,4 +9,8 @@ public class DemoDay5 {
 		System.out.println("tyzysysys");
 		
 	}	
+	
+	public static void getInfo() {
+		System.out.println("agd");
+	}
 }
