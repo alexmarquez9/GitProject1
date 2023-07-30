@@ -8,4 +8,8 @@ public class DemoDay6 {
 	public static void getData() {
 		System.out.println("xyz");
 	}
+	
+	public static void getInfo() {
+		System.out.println("abc");
+	}
 }
